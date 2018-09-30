@@ -46,7 +46,7 @@ class Container(GridLayout):
 
 class MainApp(App):
     def build(self):
-        self.title = 'Help For the Visually Challenged'
+        self.title = 'Vision: A Help For the Visually Challenged'
         return Container()
 
 
